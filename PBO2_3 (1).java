@@ -1,13 +1,12 @@
 /*
- * Nama    : Roihan Kusuma Wardana
- * NIM     : 20200040049
+ * Nama    : Sahrul Ismail Usman
+ * NIM     : 20200040045
  * Kelas   : TI20A
  */
 package pbo2;
 
 /**
  *
- * @author ZRX1204
  */
 public class PBO2_3 {
     public static void main(String args[]) {
